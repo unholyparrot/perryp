@@ -1,0 +1,9 @@
+Bio==1.5.3
+loguru==0.6.0
+numpy==1.24.2
+pandarallel==1.6.4
+pandas==1.5.3
+PyYAML==6.0
+requests==2.28.2
+scikit_learn==1.2.1
+tqdm==4.64.1

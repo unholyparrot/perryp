@@ -1,0 +1,5 @@
+ORDERED_RANKING: ["species", "genus", "family", "order", "class", "phylum", "kingdom", "superkingdom"]
+peptide_len_lb: 5
+peptide_len_hb: 30
+iterable_ordered_cutting: [0.5,     0.6,      0.7,     0.8,     0.9,      0.95,      0.99]
+common_like_cut: 0.8
